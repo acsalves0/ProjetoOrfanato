@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Happy" title="Happy" src="Capa-NLW#3.png" />
+    <img alt="Happy" title="Happy" src="Capa.png" />
 </h1>
 
 ## 🚀 Tecnologias
